@@ -1,3 +1,4 @@
-# VerticalSolutions
+# Use Cases
 
-focused on planning activities, deliverables for Vertical Solutions
+new ideas, in progress all stages
+
